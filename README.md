@@ -1,3 +1,20 @@
 # grupo_10_MundoTech
 
-Hola a todos!
+MundoTech se dedica a la venta de productos informáticos (como pueden ser monitores, componentes, periféricos, etc) a la vez que ofrece servicios de armado de computadoras de escritorio, reparación y limpieza de los mismos.
+
+No apuntamos a un público en específico, sino más que nada a todo el que esté interesado en la compra de artículos informáticos.
+
+Los integrantes que participaran en este proyecto son:
+
+Martin Outeda - 
+
+Juan Fraga - 
+
+Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
+
+https://www.armytech.com.ar/ (Idea para la pantalla de inicio)
+https://www.gsmarena.com/compare.php3?idPhone2=9848 (Idea para comparación de productos)
+https://www.diamondcomputacion.com.ar/ (Idea de incluir redes sociales como método de contacto)
+https://tiendamia.com/uy (Idea para el carrito de compras)
+https://www.bestbuy.com/ (Idea para filtro de productos utilizando la valoración de los usuarios y rangos de precio)
+
