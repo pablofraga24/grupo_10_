@@ -6,9 +6,9 @@ No apuntamos a un público en específico, sino más que nada a todo el que est�
 
 Los integrantes que participaran en este proyecto son:
 
-Martin Outeda - 
+- Martin Outeda - 
 
-Juan Fraga - 
+- Juan Fraga - 
 
 Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
