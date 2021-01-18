@@ -42,11 +42,11 @@ Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
 ### Wireframes Desktop :
 
-[Home](https://wireframe.cc/pro/pp/e93dfafe8407941) (Home)
-[Detalle del producto](https://wireframe.cc/pro/pp/e93dfafe8407941) (Pagina de producto)
-[Carrito de compras](https://wireframe.cc/pro/pp/e93dfafe8407941) (Pagina de carrito de compras)   
-[Formulario de registro](https://wireframe.cc/pro/pp/e93dfafe8407941) (Pagina de formulario de registro)
-[Formulario de login](https://wireframe.cc/pro/pp/e93dfafe8407941) (Pagina de formulario de login)
+[Home](https://wireframe.cc/pro/pp/e93dfafe8407941) 
+[Detalle del producto](https://wireframe.cc/pro/pp/e93dfafe8407941) 
+[Carrito de compras](https://wireframe.cc/pro/pp/e93dfafe8407941)   
+[Formulario de registro](https://wireframe.cc/pro/pp/e93dfafe8407941) 
+[Formulario de login](https://wireframe.cc/pro/pp/e93dfafe8407941) 
 
 ### Logo, colores y tipografías
 
