@@ -1,14 +1,22 @@
 # grupo_10_MundoTech
 
+## Acerca de nuestro sitio
+
 MundoTech se dedica a la venta de productos informáticos (como pueden ser monitores, componentes, periféricos, etc) a la vez que ofrece servicios de armado de computadoras de escritorio, reparación y limpieza de los mismos.
 
+## Público al que nos dirigimos
+
 No apuntamos a un público en específico, sino más que nada a todo el que esté interesado en la compra de artículos informáticos.
+
+## Integrantes del proyecto
 
 Los integrantes que participaran en este proyecto son:
 
 - Martin Outeda - 
 
 - Juan Fraga - Estudiante de Ingeniería en Computación en la Universidad de la República (Uruguay)
+
+## Sitios de los cuales tomamos ideas para la creación del proyecto
 
 Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
