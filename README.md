@@ -18,7 +18,7 @@ Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
 - [Diamond System](https://www.diamondcomputacion.com.ar/) (Idea de incluir redes sociales como método de contacto)
 
-- [Tiendamia](https://tiendamia.com/uy) (Idea para el carrito de compras)
+- [Tiendamia](https://tiendamia.com/uy) (Idea para el carrito de compras, el formulario de login y el de registro)
 
 - [Best Buy](https://www.bestbuy.com/) (Idea para filtro de productos utilizando la valoración de los usuarios y rangos de precio)
 
