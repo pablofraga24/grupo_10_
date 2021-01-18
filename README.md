@@ -14,11 +14,11 @@ Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
 - [ArmyTech](https://www.armytech.com.ar/) (Idea para la pantalla de inicio)
 
-- https://www.gsmarena.com/compare.php3?idPhone2=9848 (Idea para comparación de productos)
+- [GSMArena](https://www.gsmarena.com/compare.php3?idPhone2=9848) (Idea para comparación de productos)
 
-- https://www.diamondcomputacion.com.ar/ (Idea de incluir redes sociales como método de contacto)
+- [Diamond Computacion](https://www.diamondcomputacion.com.ar/) (Idea de incluir redes sociales como método de contacto)
 
-- https://tiendamia.com/uy (Idea para el carrito de compras)
+- [Tiendamia](https://tiendamia.com/uy) (Idea para el carrito de compras)
 
-- https://www.bestbuy.com/ (Idea para filtro de productos utilizando la valoración de los usuarios y rangos de precio)
+- [Best Buy](https://www.bestbuy.com/) (Idea para filtro de productos utilizando la valoración de los usuarios y rangos de precio)
 
