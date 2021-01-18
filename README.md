@@ -2,7 +2,7 @@
 
 ## Acerca de nuestro sitio
 
-MundoTech se dedica a la venta de productos informáticos (como pueden ser monitores, componentes, periféricos, etc) a la vez que ofrece servicios de armado de computadoras de escritorio, reparación y limpieza de los mismos.
+MundoTech se dedica a la venta de productos informáticos (como pueden ser dispositivos moviles, componentes, periféricos, etc) a la vez que ofrece servicios de armado de computadoras de escritorio, reparación y limpieza de los mismos.
 
 ## Público al que nos dirigimos
 
@@ -13,7 +13,9 @@ No apuntamos a un público en específico, sino más que nada a todo el que est�
 Los integrantes que participaran en este proyecto son:
 
 ### Martin Outeda
+Estudiante de Tecnicatura en Programacion en Teclab (Argentina). 
 
+Email: martinouteda@hotmail.com
 
 ### Juan Fraga 
 Estudiante de Ingeniería en Computación en la Universidad de la República (Uruguay)
@@ -38,13 +40,13 @@ Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
 ## Acerca del diseño de nuestro ecommerce
 
-### Wireframes Desktop:
+### Wireframes Desktop :
 
-[Home]
-[Detalle del producto]
-[Carrito de compras]
-[Formulario de registro]
-[Formulario de login]
+[Home](https://wireframe.cc/pro/pp/e93dfafe8407941)
+[Detalle del producto](https://wireframe.cc/pro/pp/e93dfafe8407941)
+[Carrito de compras](https://wireframe.cc/pro/pp/e93dfafe8407941)
+[Formulario de registro](https://wireframe.cc/pro/pp/e93dfafe8407941)
+[Formulario de login](https://wireframe.cc/pro/pp/e93dfafe8407941)
 
 ### Logo, colores y tipografías
 
