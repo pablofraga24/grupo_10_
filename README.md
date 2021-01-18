@@ -46,6 +46,7 @@ Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
 - [Paleta de colores](https://coolors.co/012a4a-013a63-01497c-014f86-2a6f97-2c7da0-468faf-61a5c2-89c2d9-a9d6e5)
 - [Tipografía que utilizamos](https://fonts.google.com/specimen/Lobster)
+- [Logo](https://github.com/pablofraga24/grupo_10_MundoTech/blob/main/design/Logo%20MundoTech.PNG)
 
 ## Otros enlaces pertinentes
 
