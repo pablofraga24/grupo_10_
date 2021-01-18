@@ -17,6 +17,7 @@ Los integrantes que participaran en este proyecto son:
 
 ### Juan Fraga 
 Estudiante de Ingeniería en Computación en la Universidad de la República (Uruguay)
+
 Email: juanpablofragaterra@gmail.com
 
 ## Sitios de los cuales tomamos ideas para la creación del proyecto
