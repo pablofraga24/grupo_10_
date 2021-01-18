@@ -42,19 +42,17 @@ Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
 ### Wireframes Desktop :
 
-- [Home](https://wireframe.cc/pro/pp/e93dfafe8407941) 
-
+[Home](https://wireframe.cc/pro/pp/e93dfafe8407941) 
 [Detalle del producto](https://wireframe.cc/pro/pp/e93dfafe8407941) 
-
 [Carrito de compras](https://wireframe.cc/pro/pp/e93dfafe8407941)   
-
 [Formulario de registro](https://wireframe.cc/pro/pp/e93dfafe8407941) 
-
 [Formulario de login](https://wireframe.cc/pro/pp/e93dfafe8407941) 
 
 ### Logo, colores y tipografías
 
-[Paleta de colores](https://coolors.co/012a4a-013a63-01497c-014f86-2a6f97-2c7da0-468faf-61a5c2-89c2d9-a9d6e5)
+- [Paleta de colores](https://coolors.co/012a4a-013a63-01497c-014f86-2a6f97-2c7da0-468faf-61a5c2-89c2d9-a9d6e5)
+
+- [Tipografía que utilizamos](https://fonts.google.com/specimen/Lobster)
 
 ## Otros enlaces pertinentes
 
