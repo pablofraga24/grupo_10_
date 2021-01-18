@@ -16,7 +16,7 @@ Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
 - [GSMArena](https://www.gsmarena.com/compare.php3?idPhone2=9848) (Idea para comparación de productos)
 
-- [Diamond Computacion](https://www.diamondcomputacion.com.ar/) (Idea de incluir redes sociales como método de contacto)
+- [Diamond System](https://www.diamondcomputacion.com.ar/) (Idea de incluir redes sociales como método de contacto)
 
 - [Tiendamia](https://tiendamia.com/uy) (Idea para el carrito de compras)
 
