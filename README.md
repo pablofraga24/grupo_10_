@@ -12,9 +12,11 @@ No apuntamos a un público en específico, sino más que nada a todo el que est�
 
 Los integrantes que participaran en este proyecto son:
 
-- Martin Outeda - 
+### Martin Outeda
 
-- Juan Fraga - Estudiante de Ingeniería en Computación en la Universidad de la República (Uruguay)
+
+### Juan Fraga 
+Estudiante de Ingeniería en Computación en la Universidad de la República (Uruguay)
 
 ## Sitios de los cuales tomamos ideas para la creación del proyecto
 
