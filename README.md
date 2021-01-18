@@ -22,3 +22,5 @@ Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
 - [Best Buy](https://www.bestbuy.com/) (Idea para filtro de productos utilizando la valoración de los usuarios y rangos de precio)
 
+- [Samsung](https://www.samsung.com/py/monitors/flat/led-monitor-24-inch-ls24f350fhlxzx/) (Idea para la descripción de productos)
+
