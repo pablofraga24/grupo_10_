@@ -8,7 +8,7 @@ Los integrantes que participaran en este proyecto son:
 
 - Martin Outeda - 
 
-- Juan Fraga - 
+- Juan Fraga - Estudiante de Ingeniería en Computación en la Universidad de la República (Uruguay)
 
 Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
