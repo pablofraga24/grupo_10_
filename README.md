@@ -12,7 +12,7 @@ Los integrantes que participaran en este proyecto son:
 
 Los sitios en los que nos basamos para crear este ecommerce son los siguientes:
 
-- https://www.armytech.com.ar/ (Idea para la pantalla de inicio)
+- [ArmyTech](https://www.armytech.com.ar/) (Idea para la pantalla de inicio)
 
 - https://www.gsmarena.com/compare.php3?idPhone2=9848 (Idea para comparación de productos)
 
